@@ -12,6 +12,7 @@ This is the group project for COMP3004.
   - Class Design
   - Diagrams
   - Testing
+  - Program Logic
 - Panjie Yang
   - Class Design 
   - Program Logic
