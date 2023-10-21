@@ -1,7 +1,3 @@
-# COMP3004 Group Project - Team 14:computer::cherry_blossom:
-
-This is the group project for COMP3004.
-
 ## Team members:man_student:
 
 - Connor Ayre
